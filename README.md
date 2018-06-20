@@ -1,0 +1,2 @@
+# Sentiment-Analysis-using-NLP
+ Using concepts of NLP, Social network analysis (SNA) and sentiment analysis, social image i.e liking among people was expressed for any particular individual/ entity/ product. What really differentiated it from other such projects was that along with sentiment analysis, the reason for a particular positive / negative sentiment was also expressed using news from inshorts which seems to be more reliable and authentic than any random tweet. 
